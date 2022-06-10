@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+psmanager/__init__.py
+psmanager/pchecker.py
+psmanager/pgenerator.py
+psmanager.egg-info/PKG-INFO
+psmanager.egg-info/SOURCES.txt
+psmanager.egg-info/dependency_links.txt
+psmanager.egg-info/top_level.txt
